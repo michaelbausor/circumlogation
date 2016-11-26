@@ -1,3 +1,7 @@
+Title: Links 14/x
+Date: 2016-10-24 23:57
+Category: Links
+
 Extract of a l[ecture given by Waleed Aly](http://www.smh.com.au/comment/meet-the-the-fastfeeler-a-creature-who-explains-little-but-emotes-quickly-20161014-gs29kq.html) (the Andrew Olle Media Lecture) on the changing nature of media and news - long and interesting.
 
 "Technology is never value-neutral. It might allow us to do things we already do more easily. It may offer us new ways of delivering the same service. But it never does merely that... So it is simply naive in my view to assume that as the platforms for journalism change, that the very idea of journalism itself will be somehow remain unaffected; that whether we're talking about a printed newspaper, a broadcast news bulletin or a website, that we're merely talking about different platforms for delivering the same content. We're not."

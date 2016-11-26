@@ -1,3 +1,7 @@
+Title: Links 12/x
+Date: 2016-10-11 00:16
+Category: Links
+
 [Which words are the most metal?](http://www.degeneratestate.org/posts/2016/Apr/20/heavy-metal-and-natural-language-processing-part-1/) That is metal the musical genre. The article also has this sentence:
 
 "As you can see, Five Finger Death Punch have the highest number of swear words in their lyrics, and Pig Destroyer have the most complex wordplay."

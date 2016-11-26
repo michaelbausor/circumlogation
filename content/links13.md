@@ -1,3 +1,7 @@
+Title: Links 13/x
+Date: 2016-10-17 22:31
+Category: Links
+
 [Long interview with Julia Galef](https://heleo.com/conversation-humans-are-great-at-arguing-but-bad-at-reasoning-julia-galef-explains-why/11304/), who hosts one of my favourite podcasts, [Rationally Speaking](http://rationallyspeakingpodcast.org/).
 
 Farm in South Australia [grows tomatoes in the desert](http://www.sciencealert.com/this-farm-uses-sun-and-seawater-to-grow-vegetables-in-the-desert) with nothing but sun and seawater.

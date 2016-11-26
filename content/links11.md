@@ -1,3 +1,7 @@
+Title: Links 11/x
+Date: 2016-10-03 10:03
+Category: Links
+
 Elon Musk gave a presentation last week about SpaceX's [plans to start a self-sustaining colony on Mars](http://www.vox.com/2016/9/27/13079382/elon-musk-spacex-mars-colony-plans). Here is [a short video](https://www.youtube.com/watch?v=0qo78R_yYFA), and the [full presentation](https://www.youtube.com/watch?v=10gECHeMSds), and also an article with what seem like [some sensible improvements to the plan](http://jalopnik.com/heres-how-to-fix-the-big-problems-with-elon-musks-mars-1787163420).
 
 Video explainer of [why time doesn't flow backwards](https://www.youtube.com/watch?v=yKbJ9leUNDE), featuring Sean Carroll. 

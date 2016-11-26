@@ -1,3 +1,7 @@
+Title: Emergency Links Post
+Date: 2016-11-10 00:18
+Category: Links
+
 [SlateStarCodex has a great pre-election perspective](http://slatestarcodex.com/2016/11/07/tuesday-shouldnt-change-the-narrative/), looks even better after we know the result.
 
 Nate SIlver -[ what a different two percentage points makes](http://fivethirtyeight.com/features/what-a-difference-2-percentage-points-makes/).

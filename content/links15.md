@@ -1,3 +1,7 @@
+Title: Links 15/x
+Date: 2016-11-07 23:51
+Category: Links
+
 [Long, interesting profile of Robin Hanson](http://www.chronicle.com/article/Is-This-Economist-Too-Far/238050). His book is [Age of Em](https://www.amazon.com/gp/product/0198754620?redirect=true&sa-no-redirect=1&pldnSite=1) (which is great), he blogs at [Overcoming Bias](https://www.overcomingbias.com/), an interesting blog post of his is [This is The Dreamtime](http://www.overcomingbias.com/2009/09/this-is-the-dream-time.html). 
 
 [Best chase scene ever, via Planet Earth 2.](http://kottke.org/16/11/incredible-iguanasnake-chase-scene)

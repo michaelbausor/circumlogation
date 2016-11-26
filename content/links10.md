@@ -1,3 +1,7 @@
+Title: Links 10/x
+Date: 2016-09-26 22:31
+Category: Links
+
 Just watched the 1st presidential debate. Betting markets [scored it a win for Clinton](http://www.nytimes.com/2016/09/28/upshot/prediction-markets-score-it-a-rout-clinton-over-trump.html), although that seems far from certain.
 
 Completely unrelatedly - [the Libertarian Party platform](https://www.lp.org/platform) is short and quite interesting reading. Paul Krugman strongly criticized it in a recent [plea to young voters](http://www.nytimes.com/2016/09/19/opinion/vote-as-if-it-matters.html), and [Tyler Cowen responded here](http://marginalrevolution.com/marginalrevolution/2016/09/paul-krugman-gary-johnson-libertarianism-pollution.html). The points about the environment are (I think) the most interesting:

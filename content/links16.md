@@ -1,3 +1,7 @@
+Title: Links 16/x
+Date: 2016-11-21 23:49
+Category: Links
+
 SlateStarCodex [challenges whether Trump is racist](http://slatestarcodex.com/2016/11/16/you-are-still-crying-wolf/). Ross Douthat [responds on Twitter](https://twitter.com/DouthatNYT/status/799284468980842498).
 
 An anti-aging startup [gets $116 million in funding from Jeff Bezos](https://twitter.com/elidourado/status/791961292634411011). And [the blood of human teens rejuvenates old mice](https://www.newscientist.com/article/2112829-blood-from-human-teens-rejuvenates-body-and-brains-of-old-mice/).
